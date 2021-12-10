@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 dsfsdf bố mày đang thử
+=======
+dsfsdf bố mày đang thử
+>>>>>>> 7f55bb5b610c3a8c1e312548b9b361421ac8e08c
